@@ -54,3 +54,8 @@ Commit reusable code, blank templates, source-reference metadata, tests, and san
 
 A Git commit identifies the working state. Use reviewed changes and tagged releases for issued tools or templates. Record the repository, branch, commit SHA, objective, acceptance criteria, and next action in `handoff/CURRENT_STATE.md`.
 
+## Agent entrypoints and license
+
+Before making changes, read [AGENTS.md](AGENTS.md), [the multi-LLM workflow](docs/MULTI_LLM_WORKFLOW.md) and the assigned issue. Use an owned task branch, record the full source commit and validate the actual repository state before handoff.
+
+License: not yet selected by this governance bootstrap. Preserve existing copyright and any existing license or UNLICENSED declarations; public visibility is not an open-source license.
